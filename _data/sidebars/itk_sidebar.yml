@@ -1,0 +1,13 @@
+entries:
+  - title: itk_sidebar
+    product: VIK Examples
+    folders:
+
+      - title: Overview
+        output: web
+        folderitems:
+
+          - title: About
+            url: /itk_index.html
+            output: web
+            type: homepage

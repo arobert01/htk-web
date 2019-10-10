@@ -2,7 +2,8 @@
 title: Contributing
 keywords: contributing
 last_updated: September 19, 2019
-summary: "How contributing to HTK"
+summary: "How to contribute to HTK"
+tags: [getting_started]
 sidebar: home_sidebar
 permalink: htk_contributing.html
 folder: htk
@@ -22,3 +23,4 @@ Each commit has to begin by one of these acronym:
 - TEST: Add or update test
 - CHORE: Update build process like updating cmake
 
+{% include links.html %}

@@ -7,7 +7,7 @@ entries:
     folders:
 
       - title: Overview
-        output: web, pdf
+        output: web
         folderitems:
 
           - title: Get started
@@ -17,4 +17,20 @@ entries:
 
           - title: Contributing
             url: /htk_contributing.html
+            output: web
+
+      - title: Examples
+        output: web
+        folderitems:
+
+          - title: Common
+            url: /common_index.html
+            output: web
+
+          - title: VTK
+            url: /vtk_index.html
+            output: web
+
+          - title: ITK
+            url: /itk_index.html
             output: web

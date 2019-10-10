@@ -13,8 +13,8 @@ topnav_dropdowns:
     - title: Examples
       folderitems:
         - title: Common
-          url: /mydoc_introduction.html
+          url: /common_index.html
         - title: VTK
-          url: /p1_landing_page.html
+          url: /vtk_index.html
         - title: ITK
-          url: /p2_landing_page.html
+          url: /itk_index.html

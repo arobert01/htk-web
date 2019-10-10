@@ -1,0 +1,13 @@
+entries:
+  - title: common_sidebar
+    product: Common Examples
+    folders:
+
+      - title: Overview
+        output: web
+        folderitems:
+
+          - title: About
+            url: /common_index.html
+            output: web
+            type: homepage

@@ -1,0 +1,13 @@
+entries:
+  - title: vtk_sidebar
+    product: VTK Examples
+    folders:
+
+      - title: Overview
+        output: web
+        folderitems:
+
+          - title: About
+            url: /vtk_index.html
+            output: web
+            type: homepage
