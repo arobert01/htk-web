@@ -19,6 +19,10 @@ entries:
             url: /htk_contributing.html
             output: web
 
+          - title: License
+            url: /htk_license.html
+            output: web
+
       - title: Examples
         output: web
         folderitems:

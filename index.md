@@ -8,17 +8,22 @@ permalink: index.html
 summary: These brief instructions will help you get started quickly with the HTK
 ---
 
-## What is HTK ?
+Introduction
+============
 
 HTK is an open-source software system that will help developers
 of C++, VTK, OpenCV, ITK,... to develop faster. This library lists
 common functions that can be easily use without redevelop it every times.
 
-## Reporting Bugs
+
+Reporting Bugs
+==============
 
 If you found an issue or a bug, please report it in the HTK tracker
 
-## Requirements
+
+Requirements
+============
 
 You have the possibility to use only some of the available libs by checking
 CMake entries :
@@ -28,8 +33,14 @@ CMake entries :
 If you want to use a lib which uses an external lib (like VTK), you have to
 previously have a built lib on your computer. There is no superbuild.
 
-## Contributing
+Contributing
+============
 
-See [contributing page](htk_contributing.html) for instructions to contribute.
+See [CONTRIBUTING.md](htk_contributing.html) for instructions to contribute.
+
+License
+===========
+
+See [LICENSE](htk_license.html) for the license copyrights
 
 {% include links.html %}
